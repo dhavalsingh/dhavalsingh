@@ -12,3 +12,4 @@
 
 
 To know more about me checkout my [portfolio](https://dhavalsingh.github.io/)
+![Visitor Count](https://profile-counter.glitch.me/{dhavalsingh}/count.svg)
