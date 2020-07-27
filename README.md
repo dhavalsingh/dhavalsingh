@@ -11,5 +11,5 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 
 
-To know more about me checkout my [portfolio](https://dhavalsingh.github.io/)
-![Visitor Count](https://profile-counter.glitch.me/{dhavalsingh}/count.svg)
+To know more about me checkout my [portfolio](https://dhavalsingh.github.io/). 
+![Visitor Count](https://profile-counter.glitch.me/{dhavalsingh}/count.svg).  
