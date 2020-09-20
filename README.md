@@ -12,5 +12,7 @@
 
 
 To know more about me checkout my [portfolio](https://dhavalsingh.github.io/). 
+Checkout my interactive [cv](https://dhavalsingh.github.io/dota2cv/)
+^ under construction
 <br/>
 
